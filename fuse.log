@@ -1,0 +1,24 @@
+Running: D:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/angri/Documents/XILINX PROJECTS/SEMAFORO/Semaforo_isim_beh.exe -prj C:/Users/angri/Documents/XILINX PROJECTS/SEMAFORO/Semaforo_beh.prj work.Semaforo 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 12
+Turning on mult-threading, number of parallel sub-compilation jobs: 24 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/angri/Documents/XILINX PROJECTS/SEMAFORO/OP_MODE.vhd" into library work
+Parsing VHDL file "C:/Users/angri/Documents/XILINX PROJECTS/SEMAFORO/ClockCounter.vhd" into library work
+Parsing VHDL file "C:/Users/angri/Documents/XILINX PROJECTS/SEMAFORO/SEMAFORO_TB.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity ClockCounter [clockcounter_default]
+Compiling architecture behavioral of entity OpModeManager [opmodemanager_default]
+Compiling architecture behavioral of entity semaforo
+Time Resolution for simulation is 1ps.
+WARNING:Simulator - Unable to copy libPortabilityNOSH.dll to the simulation executable directory: boost::filesystem::copy_file: Impossibile trovare il percorso specificato, "isim\Semaforo_isim_beh.exe.sim\libPortability.dll".
+Compiled 10 VHDL Units
+Built simulation executable C:/Users/angri/Documents/XILINX PROJECTS/SEMAFORO/Semaforo_isim_beh.exe
+Fuse Memory Usage: 37908 KB
+Fuse CPU Usage: 452 ms

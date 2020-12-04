@@ -1,0 +1,10 @@
+[Inputs]
+clk
+rst
+op_mode
+[Outputs]
+=sem1[2:0]=
+=sem2[2:0]=
+=debug_op_mode[1:0]=
+=debug_count[5:0]=
+[BiDir]

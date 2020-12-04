@@ -1,0 +1,29 @@
+Command line:
+   Semaforo_isim_beh.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  4612
+
+Thu Dec 03 11:41:36 2020
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 5151.15 Meg
+
+ Total Signals          : 23
+ Total Nets             : 39
+ Total Signal Drivers   : 13
+ Total Blocks           : 7
+ Total Primitive Blocks : 6
+ Total Processes        : 10
+ Total Traceable Variables  : 15
+ Total Scalar Nets and Variables : 540
+Total Line Count : 94
+
+ Total Simulation Time: 0.078125 sec
+
+ Current Memory Usage: 5151.15 Meg
+
+Thu Dec 03 11:41:55 2020
+
